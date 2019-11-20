@@ -1,15 +1,5 @@
-<!-- _coverpage.md -->
+# Sky 知识库
 
-# Home <small>3.5</small>
+宾桀锋（著）&copy; 2019
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-
-[Get Started](#quick-start)
-
-<!-- background image -->
-
-![](_media/bitcoin.gif)
-
-<!-- background color -->
-
-![color](#f0f0f0)
+![](/images/blbcover.gif)
