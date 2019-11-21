@@ -1,4 +1,4 @@
-# 菜单-sidebar **{docsify-ignore}** 
+# 知识库 **{docsify-ignore}** 
 
 - [首页](/)
   - [abc](guide.md)

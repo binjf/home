@@ -1,18 +1,5 @@
- <!-- _navbar.md --> 
+* [首页](/)
+* [讨论](https://github.com/binjf/home/issues)
 
-* Getting started 
-  * [Quick start](quickstart.md)  
-  * [Writing more pages](more-pages.md)  
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md) 
+[:cn:](/zh-cn/) 
 
-* Configuration  
-  * [Configuration](configuration.md)  
-  * [Themes](themes.md)  
-  * [Using plugins](plugins.md)  
-
-  * [Markdown configuration](markdown.md)  
-
-  * [Language highlight](language-highlight.md) 
-
-[:us:](/)  [:cn:](/zh-cn/) [:uk:]()
