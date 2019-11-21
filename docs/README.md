@@ -1,6 +1,8 @@
 # 知识库
 
-[宾桀锋](https://github.com/binjf)（著）&copy; 2019  终身成长者
+[宾桀锋](https://github.com/binjf)（著）&copy; 2019  终身成长者 <small>（文档更新时间： {docsify-updated}）</small>
+
+
 
 > Discipline=Freedom 自律=自由
 
@@ -98,9 +100,3 @@ You can not control your bedtime, not even your life. The problem is, that you k
 6 和朋友同行多交流
 
 ​	走出去，学习别人，认识自己
-
-
-
-
-
-> 修改时间： **{docsify-updated}**   深圳 宾桀锋

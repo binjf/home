@@ -75,21 +75,21 @@
         namespace: 'website-1',
       },
 
-      plugins: [
-        function(hook) {
-          var footer = [
-            '<hr/>',
-            '<footer>',
-            '<span><a href="https://github.com/QingWei-Li">cinwell</a> &copy;2017.</span>',
-            '<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
-            '</footer>'
-          ].join('');
+      // plugins: [
+      //   function(hook) {
+      //     var footer = [
+      //       '<hr/>',
+      //       '<footer>',
+      //       '<span><a href="https://github.com/binjf">Sky</a> &copy;2019.</span>',
+      //       '<span></span>',
+      //       '</footer>'
+      //     ].join('');
 
-          hook.afterEach(function(html) {
-            return html + footer;
-          });
-        }
-      ]
+      //     hook.afterEach(function(html) {
+      //       return html + footer;
+      //     });
+      //   }
+      // ]
     }
   </script>
   <script>
